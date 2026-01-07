@@ -1,13 +1,5 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
 <channel>
     <title>Studio Updates</title>
-    <item>
-    <title>Version 1.0.0</title>
-    <sparkle:version>1.0.0</sparkle:version>
-    <pubDate>Mon, 07 Jan 2026 10:00:00 +0000</pubDate>
-    <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/test-release-1/ADashStudio-1.0.0-Setup.exe"
-                sparkle:version="1.0.0"
-                type="application/octet-stream"/>
-    </item>
 </channel>
 </rss>
