@@ -9,13 +9,8 @@
     <item>
       <title>Version 0.0.4</title>
       <sparkle:version>0.0.4</sparkle:version>
-      <pubDate>Mi, 07 Jan 2026 14:49:17 +01:00</pubDate>
-      <description><[CDATA[
-        <h2>What's New in 0.0.4</h2>
-        <ul>
-          <li>See release notes on GitHub</li>
-        </ul>
-      ]]></description>
+      <pubDate>Wed, 7 Jan 2026 14:49:17 +0100</pubDate>
+      <description></description>
       <enclosure
         url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.0.4/ADashStudio-0.0.4-Setup.exe"
         sparkle:version="0.0.4"
@@ -27,12 +22,7 @@
       <title>Version 0.0.3</title>
       <sparkle:version>0.0.3</sparkle:version>
       <pubDate>Wed, 7 Jan 2026 14:32:22 +0100</pubDate>
-      <description><[CDATA[
-        <h2>What's New in 0.0.3</h2>
-        <ul>
-          <li>See release notes on GitHub</li>
-        </ul>
-      ]]></description>
+      <description></description>
       <enclosure
         url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.0.3/ADashStudio-0.0.3-Setup.exe"
         sparkle:version="0.0.3"
@@ -44,12 +34,7 @@
       <title>Version 0.0.2</title>
       <sparkle:version>0.0.2</sparkle:version>
       <pubDate>Wed, 7 Jan 2026 13:19:19 +0100</pubDate>
-      <description><[CDATA[
-        <h2>What's New in 0.0.2</h2>
-        <ul>
-          <li>See release notes on GitHub</li>
-        </ul>
-      ]]></description>
+      <description></description>
       <enclosure
         url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.0.2/ADashStudio-0.0.2-Setup.exe"
         sparkle:version="0.0.2"

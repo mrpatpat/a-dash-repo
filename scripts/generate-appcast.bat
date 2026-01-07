@@ -75,12 +75,7 @@ for /f "tokens=*" %%v in (%TEMP_VERSIONS%) do (
         echo       ^<title^>Version !VERSION!^</title^>
         echo       ^<sparkle:version^>!VERSION!^</sparkle:version^>
         echo       ^<pubDate^>!PUBDATE!^</pubDate^>
-        echo       ^<description^>^<![CDATA[
-        echo         ^<h2^>What's New in !VERSION!^</h2^>
-        echo         ^<ul^>
-        echo           ^<li^>See release notes on GitHub^</li^>
-        echo         ^</ul^>
-        echo       ]]^>^</description^>
+        echo       ^<description^>^</description^>
         echo       ^<enclosure
         echo         url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v!VERSION!/ADashStudio-!VERSION!-Setup.exe"
         echo         sparkle:version="!VERSION!"
