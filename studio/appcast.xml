@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>A-Dash Studio Updates</title>
+    <link>https://github.com/mrpatpat/a-dash</link>
+    <description>Most recent updates to A-Dash Studio</description>
+    <language>en</language>
+
+    <item>
+      <title>Version 0.0.2</title>
+      <sparkle:version>0.0.2</sparkle:version>
+      <pubDate>Mi, 07 Jan 2026 14:18:06 +01:00</pubDate>
+      <description><[CDATA[
+        <h2>What's New in 0.0.2</h2>
+        <ul>
+          <li>See release notes on GitHub</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.0.2/ADashStudio-0.0.2-Setup.exe"
+        sparkle:version="0.0.2"
+        length="1695601"
+        type="application/octet-stream" />
+    </item>
+
+  </channel>
+</rss>
