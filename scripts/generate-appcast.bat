@@ -61,8 +61,13 @@ for /f "tokens=*" %%v in (%TEMP_VERSIONS%) do (
     REM Get file size
     for %%A in ("!VERSION_DIR!\ADashStudio-!VERSION!-Setup.exe") do set FILESIZE=%%~zA
 
-    REM Get current date in RFC 2822 format
-    for /f "tokens=*" %%i in ('powershell -Command "Get-Date -Format 'ddd, dd MMM yyyy HH:mm:ss K'"') do set PUBDATE=%%i
+    REM Get git commit date for this version directory (RFC 2822 format)
+    for /f "tokens=*" %%i in ('git log -1 --format^=%%aD --diff-filter^=A -- "!VERSION_DIR!"') do set PUBDATE=%%i
+
+    REM If git date not found (not committed yet), use current date
+    if not defined PUBDATE (
+        for /f "tokens=*" %%i in ('powershell -Command "Get-Date -Format 'ddd, dd MMM yyyy HH:mm:ss K'"') do set PUBDATE=%%i
+    )
 
     REM Append item to temp file
     (
@@ -128,10 +133,5 @@ echo.
 echo File: %CD%\studio\appcast.xml
 echo Versions: !COUNT!
 echo.
-
-REM Only show appcast contents and pause if run directly (not from release script)
-if "%1"=="-q" goto :end
-type studio\appcast.xml
-pause
 
 :end
