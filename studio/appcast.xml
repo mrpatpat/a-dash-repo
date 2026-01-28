@@ -7,9 +7,21 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.10.1</title>
+      <sparkle:version>0.10.1</sparkle:version>
+      <pubDate>Mi, 28 Jan 2026 18:36:09 +01:00</pubDate>
+      <description></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.10.1/ADashStudio-0.10.1-Setup.exe"
+        sparkle:version="0.10.1"
+        length="2866760"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.10.0</title>
       <sparkle:version>0.10.0</sparkle:version>
-      <pubDate>Mi, 28 Jan 2026 14:30:23 +01:00</pubDate>
+      <pubDate>Wed, 28 Jan 2026 14:30:29 +0100</pubDate>
       <description></description>
       <enclosure
         url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.10.0/ADashStudio-0.10.0-Setup.exe"
