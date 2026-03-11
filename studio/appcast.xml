@@ -9,12 +9,12 @@
     <item>
       <title>Version 0.20.1</title>
       <sparkle:version>0.20.1</sparkle:version>
-      <pubDate>Mi, 11 Mrz 2026 17:03:20 +01:00</pubDate>
+      <pubDate>Wed, 11 Mar 2026 17:03:20 +0100</pubDate>
       <description></description>
       <enclosure
         url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.20.1/ADashStudio-0.20.1-Setup.exe"
         sparkle:version="0.20.1"
-        length="3003213"
+        length="3002010"
         type="application/octet-stream" />
     </item>
 
