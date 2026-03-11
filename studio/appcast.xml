@@ -9,18 +9,26 @@
       <title>Version 0.21.3</title>
       <pubDate>Mi, 11 Mrz 2026 23:13:20 +01:00</pubDate>
       <sparkle:version>0.21.3</sparkle:version>
+      <description><![CDATA[﻿Maintenance release with minor improvements.
+]]></description>
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.3/ADashStudio-0.21.3-Setup.exe" length="3002506" type="application/octet-stream" sparkle:version="0.21.3" />
     </item>
     <item>
       <title>Version 0.21.2</title>
       <pubDate>Mi, 11 Mrz 2026 21:59:55 +01:00</pubDate>
       <sparkle:version>0.21.2</sparkle:version>
+      <description><![CDATA[﻿Maintenance release with minor improvements.
+]]></description>
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.2/ADashStudio-0.21.2-Setup.exe" length="3004096" type="application/octet-stream" sparkle:version="0.21.2" />
     </item>
     <item>
       <title>Version 0.21.1</title>
       <pubDate>Mi, 11 Mrz 2026 18:45:02 +01:00</pubDate>
       <sparkle:version>0.21.1</sparkle:version>
+      <description><![CDATA[﻿## Bug Fixes
+- fake fix to test release system
+
+]]></description>
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" />
     </item>
   </channel>
