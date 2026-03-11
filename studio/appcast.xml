@@ -7,9 +7,21 @@
     <language>en</language>
 
     <item>
+      <title>Version 0.21.2</title>
+      <sparkle:version>0.21.2</sparkle:version>
+      <pubDate>Mi, 11 Mrz 2026 21:59:49 +01:00</pubDate>
+      <description></description>
+      <enclosure
+        url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.21.2/ADashStudio-0.21.2-Setup.exe"
+        sparkle:version="0.21.2"
+        length="3004096"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>Version 0.21.1</title>
       <sparkle:version>0.21.1</sparkle:version>
-      <pubDate>Mi, 11 Mrz 2026 18:44:54 +01:00</pubDate>
+      <pubDate>Wed, 11 Mar 2026 18:44:55 +0100</pubDate>
       <description></description>
       <enclosure
         url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.21.1/ADashStudio-0.21.1-Setup.exe"
@@ -51,18 +63,6 @@
         url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.20.0/ADashStudio-0.20.0-Setup.exe"
         sparkle:version="0.20.0"
         length="3001548"
-        type="application/octet-stream" />
-    </item>
-
-    <item>
-      <title>Version 0.19.0</title>
-      <sparkle:version>0.19.0</sparkle:version>
-      <pubDate>Wed, 11 Mar 2026 15:53:14 +0100</pubDate>
-      <description></description>
-      <enclosure
-        url="https://raw.githubusercontent.com/mrpatpat/a-dash-repo/refs/heads/main/studio/v0.19.0/ADashStudio-0.19.0-Setup.exe"
-        sparkle:version="0.19.0"
-        length="2994059"
         type="application/octet-stream" />
     </item>
 
