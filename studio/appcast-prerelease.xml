@@ -47,6 +47,25 @@
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1.0" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
+      <title>Prerelease 0.22.0 (Build 33)</title>
+      <pubDate>Do, 12 Mrz 2026 09:27:19 +01:00</pubDate>
+      <sparkle:version>0.22.0.33</sparkle:version>
+      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Features
+- this is a test pre release change
+
+## Bug Fixes
+- ci
+- versioning
+- versioning
+- read 4 part release number
+- ci
+- change publishing
+
+</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.22.0-33/ADashStudio-0.22.0-Setup.exe" length="3003111" type="application/octet-stream" sparkle:version="0.22.0.33" sparkle:shortVersionString="0.22.0" />
+    </item>
+    <item>
       <title>Prerelease 0.22.0 (Build 32)</title>
       <pubDate>Do, 12 Mrz 2026 09:20:23 +01:00</pubDate>
       <sparkle:version>0.22.0.32</sparkle:version>
