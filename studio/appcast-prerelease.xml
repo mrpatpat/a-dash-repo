@@ -94,6 +94,17 @@
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
+      <title>Prerelease 0.24.1.2</title>
+      <pubDate>Thu, 12 Mar 2026 22:04:30 +0000</pubDate>
+      <sparkle:version>0.24.1.2</sparkle:version>
+      <sparkle:shortVersionString>0.24.1.2</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Bug Fixes
+- fix path
+- fix
+- fix</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.24.1.2/ADashStudio-0.24.1.2-Setup.exe" length="3142509" type="application/octet-stream" sparkle:version="0.24.1.2" sparkle:shortVersionString="0.24.1.2" />
+    </item>
+    <item>
       <title>Prerelease 0.24.0.1</title>
       <pubDate>Thu, 12 Mar 2026 16:38:57 +0000</pubDate>
       <sparkle:version>0.24.0.1</sparkle:version>
