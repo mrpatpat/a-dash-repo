@@ -66,6 +66,19 @@
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
+      <title>Prerelease 0.23.0.7</title>
+      <pubDate>Thu, 12 Mar 2026 15:39:57 +00:00</pubDate>
+      <sparkle:version>0.23.0.7</sparkle:version>
+      <sparkle:shortVersionString>0.23.0.7</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Bug Fixes
+- remove demos from firmware
+- missing change
+- 4 part installer
+
+</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.23.0.7/ADashStudio-0.23.0.7-Setup.exe" length="2998230" type="application/octet-stream" sparkle:version="0.23.0.7" sparkle:shortVersionString="0.23.0.7" />
+    </item>
+    <item>
       <title>Prerelease 0.23.0.6</title>
       <pubDate>Thu, 12 Mar 2026 15:26:19 +00:00</pubDate>
       <sparkle:version>0.23.0.6</sparkle:version>
