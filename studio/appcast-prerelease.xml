@@ -6,6 +6,19 @@
     <description>A-Dash Studio Updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.23.1.0</title>
+      <pubDate>Thu, 12 Mar 2026 15:52:32 +00:00</pubDate>
+      <sparkle:version>0.23.1.0</sparkle:version>
+      <sparkle:shortVersionString>0.23.1.0</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Bug Fixes
+- remove demos from firmware
+- missing change
+- 4 part installer
+
+</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.23.1.0/ADashStudio-0.23.1.0-Setup.exe" length="2999581" type="application/octet-stream" sparkle:version="0.23.1.0" sparkle:shortVersionString="0.23.1.0" />
+    </item>
+    <item>
       <title>Version 0.23.0</title>
       <pubDate>Thu, 12 Mar 2026 08:34:13 +00:00</pubDate>
       <sparkle:version>0.23.0</sparkle:version>
