@@ -7,8 +7,8 @@
     <language>en</language>
     <item>
       <title>Version 0.23.0</title>
-      <pubDate>Do, 12 Mrz 2026 09:34:13 +01:00</pubDate>
-      <sparkle:version>0.23.0.0</sparkle:version>
+      <pubDate>Thu, 12 Mar 2026 08:34:13 +00:00</pubDate>
+      <sparkle:version>0.23.0</sparkle:version>
       <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Features
 - this is a test pre release change
@@ -22,54 +22,66 @@
 - change publishing
 
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.23.0/ADashStudio-0.23.0-Setup.exe" length="3002975" type="application/octet-stream" sparkle:version="0.23.0.0" sparkle:shortVersionString="0.23.0" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.23.0/ADashStudio-0.23.0-Setup.exe" length="3002975" type="application/octet-stream" sparkle:version="0.23.0" sparkle:shortVersionString="0.23.0" />
     </item>
     <item>
       <title>Version 0.22.0</title>
-      <pubDate>Do, 12 Mrz 2026 08:20:10 +01:00</pubDate>
-      <sparkle:version>0.22.0.0</sparkle:version>
+      <pubDate>Thu, 12 Mar 2026 07:20:10 +00:00</pubDate>
+      <sparkle:version>0.22.0</sparkle:version>
       <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Features
 - adds pre releases to studio
 
 
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.22.0/ADashStudio-0.22.0-Setup.exe" length="3003247" type="application/octet-stream" sparkle:version="0.22.0.0" sparkle:shortVersionString="0.22.0" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.22.0/ADashStudio-0.22.0-Setup.exe" length="3003247" type="application/octet-stream" sparkle:version="0.22.0" sparkle:shortVersionString="0.22.0" />
     </item>
     <item>
       <title>Version 0.21.3</title>
-      <pubDate>Mi, 11 Mrz 2026 23:13:20 +01:00</pubDate>
-      <sparkle:version>0.21.3.0</sparkle:version>
+      <pubDate>Wed, 11 Mar 2026 22:13:20 +00:00</pubDate>
+      <sparkle:version>0.21.3</sparkle:version>
       <sparkle:shortVersionString>0.21.3</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿Maintenance release with minor improvements.
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.3/ADashStudio-0.21.3-Setup.exe" length="3002506" type="application/octet-stream" sparkle:version="0.21.3.0" sparkle:shortVersionString="0.21.3" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.3/ADashStudio-0.21.3-Setup.exe" length="3002506" type="application/octet-stream" sparkle:version="0.21.3" sparkle:shortVersionString="0.21.3" />
     </item>
     <item>
       <title>Version 0.21.2</title>
-      <pubDate>Mi, 11 Mrz 2026 21:59:55 +01:00</pubDate>
-      <sparkle:version>0.21.2.0</sparkle:version>
+      <pubDate>Wed, 11 Mar 2026 20:59:55 +00:00</pubDate>
+      <sparkle:version>0.21.2</sparkle:version>
       <sparkle:shortVersionString>0.21.2</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿Maintenance release with minor improvements.
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.2/ADashStudio-0.21.2-Setup.exe" length="3004096" type="application/octet-stream" sparkle:version="0.21.2.0" sparkle:shortVersionString="0.21.2" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.2/ADashStudio-0.21.2-Setup.exe" length="3004096" type="application/octet-stream" sparkle:version="0.21.2" sparkle:shortVersionString="0.21.2" />
     </item>
     <item>
       <title>Version 0.21.1</title>
-      <pubDate>Mi, 11 Mrz 2026 18:45:02 +01:00</pubDate>
-      <sparkle:version>0.21.1.0</sparkle:version>
+      <pubDate>Wed, 11 Mar 2026 17:45:02 +00:00</pubDate>
+      <sparkle:version>0.21.1</sparkle:version>
       <sparkle:shortVersionString>0.21.1</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Bug Fixes
 - fake fix to test release system
 
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1.0" sparkle:shortVersionString="0.21.1" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
-      <title>Prerelease 0.22.0 (Build 33)</title>
-      <pubDate>Do, 12 Mrz 2026 09:27:19 +01:00</pubDate>
-      <sparkle:version>0.22.0.33</sparkle:version>
-      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+      <title>Prerelease 0.23.0.3</title>
+      <pubDate>Thu, 12 Mar 2026 14:28:17 +00:00</pubDate>
+      <sparkle:version>0.23.0.3</sparkle:version>
+      <sparkle:shortVersionString>0.23.0.3</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Bug Fixes
+- missing change
+- 4 part installer
+
+</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.23.0.3/ADashStudio-0.23.0.3-Setup.exe" length="3003051" type="application/octet-stream" sparkle:version="0.23.0.3" sparkle:shortVersionString="0.23.0.3" />
+    </item>
+    <item>
+      <title>Prerelease 0.22.0-33</title>
+      <pubDate>Thu, 12 Mar 2026 08:27:19 +00:00</pubDate>
+      <sparkle:version>0.22.0-33</sparkle:version>
+      <sparkle:shortVersionString>0.22.0-33</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Features
 - this is a test pre release change
 
@@ -82,13 +94,13 @@
 - change publishing
 
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.22.0-33/ADashStudio-0.22.0-Setup.exe" length="3003111" type="application/octet-stream" sparkle:version="0.22.0.33" sparkle:shortVersionString="0.22.0" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.22.0-33/ADashStudio-0.22.0-Setup.exe" length="3003111" type="application/octet-stream" sparkle:version="0.22.0-33" sparkle:shortVersionString="0.22.0-33" />
     </item>
     <item>
-      <title>Prerelease 0.22.0 (Build 32)</title>
-      <pubDate>Do, 12 Mrz 2026 09:20:23 +01:00</pubDate>
-      <sparkle:version>0.22.0.32</sparkle:version>
-      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+      <title>Prerelease 0.22.0-32</title>
+      <pubDate>Thu, 12 Mar 2026 08:20:23 +00:00</pubDate>
+      <sparkle:version>0.22.0-32</sparkle:version>
+      <sparkle:shortVersionString>0.22.0-32</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Features
 - this is a test pre release change
 
@@ -100,13 +112,13 @@
 - change publishing
 
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.22.0-32/ADashStudio-0.22.0-Setup.exe" length="3003490" type="application/octet-stream" sparkle:version="0.22.0.32" sparkle:shortVersionString="0.22.0" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.22.0-32/ADashStudio-0.22.0-Setup.exe" length="3003490" type="application/octet-stream" sparkle:version="0.22.0-32" sparkle:shortVersionString="0.22.0-32" />
     </item>
     <item>
-      <title>Prerelease 0.22.0 (Build 29)</title>
-      <pubDate>Do, 12 Mrz 2026 08:36:59 +01:00</pubDate>
-      <sparkle:version>0.22.0.29</sparkle:version>
-      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+      <title>Prerelease 0.22.0-29</title>
+      <pubDate>Thu, 12 Mar 2026 07:36:59 +00:00</pubDate>
+      <sparkle:version>0.22.0-29</sparkle:version>
+      <sparkle:shortVersionString>0.22.0-29</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Features
 - this is a test pre release change
 
@@ -114,40 +126,40 @@
 - change publishing
 
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.22.0-29/ADashStudio-0.22.0-Setup.exe" length="3003407" type="application/octet-stream" sparkle:version="0.22.0.29" sparkle:shortVersionString="0.22.0" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.22.0-29/ADashStudio-0.22.0-Setup.exe" length="3003407" type="application/octet-stream" sparkle:version="0.22.0-29" sparkle:shortVersionString="0.22.0-29" />
     </item>
     <item>
-      <title>Prerelease 0.22.0 (Build 28)</title>
-      <pubDate>Do, 12 Mrz 2026 08:27:39 +01:00</pubDate>
-      <sparkle:version>0.22.0.28</sparkle:version>
-      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
+      <title>Prerelease 0.22.0-28</title>
+      <pubDate>Thu, 12 Mar 2026 07:27:39 +00:00</pubDate>
+      <sparkle:version>0.22.0-28</sparkle:version>
+      <sparkle:shortVersionString>0.22.0-28</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Features
 - this is a test pre release change
 
 
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.22.0-28/ADashStudio-0.22.0-Setup.exe" length="3003204" type="application/octet-stream" sparkle:version="0.22.0.28" sparkle:shortVersionString="0.22.0" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.22.0-28/ADashStudio-0.22.0-Setup.exe" length="3003204" type="application/octet-stream" sparkle:version="0.22.0-28" sparkle:shortVersionString="0.22.0-28" />
     </item>
     <item>
-      <title>Prerelease 0.21.3 (Build 26)</title>
-      <pubDate>Do, 12 Mrz 2026 08:15:59 +01:00</pubDate>
-      <sparkle:version>0.21.3.26</sparkle:version>
-      <sparkle:shortVersionString>0.21.3</sparkle:shortVersionString>
+      <title>Prerelease 0.21.3-26</title>
+      <pubDate>Thu, 12 Mar 2026 07:15:59 +00:00</pubDate>
+      <sparkle:version>0.21.3-26</sparkle:version>
+      <sparkle:shortVersionString>0.21.3-26</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Features
 - adds pre releases to studio
 
 
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.21.3-26/ADashStudio-0.21.3-Setup.exe" length="3002921" type="application/octet-stream" sparkle:version="0.21.3.26" sparkle:shortVersionString="0.21.3" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.21.3-26/ADashStudio-0.21.3-Setup.exe" length="3002921" type="application/octet-stream" sparkle:version="0.21.3-26" sparkle:shortVersionString="0.21.3-26" />
     </item>
     <item>
-      <title>Prerelease 0.21.2 (Build 20)</title>
-      <pubDate>Mi, 11 Mrz 2026 23:09:16 +01:00</pubDate>
-      <sparkle:version>0.21.2.20</sparkle:version>
-      <sparkle:shortVersionString>0.21.2</sparkle:shortVersionString>
+      <title>Prerelease 0.21.2-20</title>
+      <pubDate>Wed, 11 Mar 2026 22:09:16 +00:00</pubDate>
+      <sparkle:version>0.21.2-20</sparkle:version>
+      <sparkle:shortVersionString>0.21.2-20</sparkle:shortVersionString>
       <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿Maintenance release with minor improvements.
 </pre></body></html>]]></description>
-      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.21.2-20/ADashStudio-0.21.2-Setup.exe" length="3001770" type="application/octet-stream" sparkle:version="0.21.2.20" sparkle:shortVersionString="0.21.2" />
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.21.2-20/ADashStudio-0.21.2-Setup.exe" length="3001770" type="application/octet-stream" sparkle:version="0.21.2-20" sparkle:shortVersionString="0.21.2-20" />
     </item>
   </channel>
 </rss>
