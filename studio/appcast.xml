@@ -6,6 +6,20 @@
     <description>A-Dash Studio Updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.24.0.0</title>
+      <pubDate>Thu, 12 Mar 2026 16:23:42 +00:00</pubDate>
+      <sparkle:version>0.24.0.0</sparkle:version>
+      <sparkle:shortVersionString>0.24.0.0</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">﻿## Features
+- adds a crash handler and crash logging
+- logs now show a clear version number
+- shows 4 part version number in the about dialog
+
+
+</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.24.0.0/ADashStudio-0.24.0.0-Setup.exe" length="3000397" type="application/octet-stream" sparkle:version="0.24.0.0" sparkle:shortVersionString="0.24.0.0" />
+    </item>
+    <item>
       <title>Version 0.23.1.0</title>
       <pubDate>Thu, 12 Mar 2026 15:52:32 +00:00</pubDate>
       <sparkle:version>0.23.1.0</sparkle:version>
