@@ -94,6 +94,65 @@
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
+      <title>Prerelease 0.24.1.30</title>
+      <pubDate>Tue, 24 Mar 2026 21:01:43 +0000</pubDate>
+      <sparkle:version>0.24.1.30</sparkle:version>
+      <sparkle:shortVersionString>0.24.1.30</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Features
+- add custom sensor definition dialog (table / beta / Steinhart-Hart) (#121)
+- add Hardware Abstraction Layer (HAL) for CAN interface (#129)
+- add round gauge widget (#128)
+- make flicker interval adjustable via slider (#120)
+- add custom CAN device definition window with DBC import (#112)
+- add flicker option for gauge segment definitions (#116)
+- increase bar/scale gauge value range limit from ±10,000 to ±100,000 (#117)
+- load user-defined sensors and CAN definitions from AppData (#108)
+- OTA firmware updates via serial protocol (#102)
+- add reboot command to serial protocol and UI (#101)
+- replace self-implemented base64 with joedf/b64 (MIT) (#89)
+- feat(studio): add auto-reconnection when device disconnects (#99)
+- feat(#71): adds an on screen dynamic config menu (#92)
+- publish wiki to a-dash-repo on docs commits (#84)
+- add manage-issues workflow to merge duplicates, split multi-task issues, and cross-ref commits
+- adds font sizes to action buttons
+- removes can diagnostics screen action since diagnostics are now available via on screen menu (long press the page)
+- removes log screen action since it is not part of a-dash anymore. it is replaced by the studios log viewer
+- allow the usage of fonts between 10 and 148 size
+- implement multi channel logging and logging to studio. centralizes all logging sinks in one logger that listens to standard esp logs
+- tapping the screen navigates to the next page
+- adds a settings menu when long tapping an empty space on the screen
+- adds a default logo splash screen for newly transferred dui files. Will be configurable in the future
+- adds a device log viewer to the studio. firmware is still missing
+- replaces AT commands with COBS
+- adds transfer progress indicator
+- adds static scale widget
+- adds 7 inch screen flash option in studio
+
+## Bug Fixes
+- fix(serial-protocol): fix dangling pointer in COBS accumulator (#100)
+- adds taskfile and disables extra log window in studio (#98)
+- grant pull-requests write permission in lint-pr workflow for WIP support (#80)
+- waveshare-esp32s3-7b firmware build, disable unused LVGL demos (#74)
+- a bug that prevented button clicks to be registered on the display
+- make action buttons use ttf font
+- serial can simulation
+- reload task issue
+- fix build for 7 inch display
+- add long click handlers to all elements for the menu
+- jtag initialization
+- rename serial file transfer protocol to serial protocol and fix stackoverflow
+- transfer error
+- fix size limit
+- reload ui after transfer
+- fix
+- bootscreen
+- fix
+- fix path
+- fix
+- fix</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.24.1.30/ADashStudio-0.24.1.30-Setup.exe" length="3274208" type="application/octet-stream" sparkle:version="0.24.1.30" sparkle:shortVersionString="0.24.1.30" />
+    </item>
+    <item>
       <title>Prerelease 0.24.1.29</title>
       <pubDate>Tue, 24 Mar 2026 16:24:48 +0000</pubDate>
       <sparkle:version>0.24.1.29</sparkle:version>
