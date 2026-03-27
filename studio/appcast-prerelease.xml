@@ -168,6 +168,21 @@
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
+      <title>Prerelease 0.25.0.37</title>
+      <pubDate>Fri, 27 Mar 2026 15:29:11 +0000</pubDate>
+      <sparkle:version>0.25.0.37</sparkle:version>
+      <sparkle:shortVersionString>0.25.0.37</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Features
+- add ESP32P4 board support to studio and CI pipeline (#205)
+- add Waveshare 10.1" display support for ESP32-P4 with Kconfig display selector (#203)
+- waveshare-esp32p4 SD card, MIPI DSI display, GT911 touch, parallel SPI (#153)
+
+## Bug Fixes
+- correct header include for waveshare JD9365 10.1" LCD driver (#207)
+- fix</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.25.0.37/ADashStudio-0.25.0.37-Setup.exe" length="3326788" type="application/octet-stream" sparkle:version="0.25.0.37" sparkle:shortVersionString="0.25.0.37" />
+    </item>
+    <item>
       <title>Prerelease 0.24.1.33</title>
       <pubDate>Thu, 26 Mar 2026 17:55:30 +0000</pubDate>
       <sparkle:version>0.24.1.33</sparkle:version>
