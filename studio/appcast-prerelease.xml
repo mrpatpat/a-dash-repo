@@ -6,6 +6,25 @@
     <description>A-Dash Studio Updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.26.0.0</title>
+      <pubDate>Sun, 29 Mar 2026 21:46:02 +0000</pubDate>
+      <sparkle:version>0.26.0.0</sparkle:version>
+      <sparkle:shortVersionString>0.26.0.0</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Features
+- make p2 p2* timing adjustable
+- add ESP32P4 board support to studio and CI pipeline (#205)
+- add Waveshare 10.1" display support for ESP32-P4 with Kconfig display selector (#203)
+- waveshare-esp32p4 SD card, MIPI DSI display, GT911 touch, parallel SPI (#153)
+
+## Bug Fixes
+- update esp32p4 CMakeLists.txt to new core component paths (#219)
+- correct studio_connection component path in waveshare-esp32s3-7b (#218)
+- timeout-guarded panel init for ESP32-P4 JD9365 MIPI DSI LP read hang (#212)
+- correct header include for waveshare JD9365 10.1" LCD driver (#207)
+- fix</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.26.0.0/ADashStudio-0.26.0.0-Setup.exe" length="3329750" type="application/octet-stream" sparkle:version="0.26.0.0" sparkle:shortVersionString="0.26.0.0" />
+    </item>
+    <item>
       <title>Version 0.25.0.0</title>
       <pubDate>Thu, 26 Mar 2026 18:41:12 +0000</pubDate>
       <sparkle:version>0.25.0.0</sparkle:version>
