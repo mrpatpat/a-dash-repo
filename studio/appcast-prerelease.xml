@@ -199,6 +199,25 @@
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
+      <title>Prerelease 0.27.0.48</title>
+      <pubDate>Mon, 30 Mar 2026 20:36:41 +0000</pubDate>
+      <sparkle:version>0.27.0.48</sparkle:version>
+      <sparkle:shortVersionString>0.27.0.48</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Features
+- add unit tests for base64 and can-signals libraries
+- add unit tests for serial-protocol library
+- add optional click actions to indicator widgets
+- replace Montserrat with JetBrains Mono for less visual jitter (#231)
+
+## Bug Fixes
+- correct big-endian bit extract/pack and test bugs in can-signals (#238)
+- guard -mconsole linker flag with WIN32 in can-signals test (#237)
+- make -mconsole linker flag Windows-only in base64 tests (#236)
+- serial-protocol tests on Linux, use taskfile in CI (#232)
+- enable live simulation for OBD2 devices</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.27.0.48/ADashStudio-0.27.0.48-Setup.exe" length="3729331" type="application/octet-stream" sparkle:version="0.27.0.48" sparkle:shortVersionString="0.27.0.48" />
+    </item>
+    <item>
       <title>Prerelease 0.27.0.43</title>
       <pubDate>Mon, 30 Mar 2026 18:02:04 +0000</pubDate>
       <sparkle:version>0.27.0.43</sparkle:version>
