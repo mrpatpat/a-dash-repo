@@ -199,6 +199,31 @@
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
+      <title>Prerelease 0.27.0.53</title>
+      <pubDate>Thu, 02 Apr 2026 20:49:34 +0000</pubDate>
+      <sparkle:version>0.27.0.53</sparkle:version>
+      <sparkle:shortVersionString>0.27.0.53</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Features
+- replace rendering engine with sdl2 in order to make scrolling possible
+- add unit tests for base64 and can-signals libraries
+- add unit tests for serial-protocol library
+- add optional click actions to indicator widgets
+- replace Montserrat with JetBrains Mono for less visual jitter (#231)
+
+## Bug Fixes
+- issues with dragging and resizing due to sdl migration
+- keyboard input with sdl driver
+- update installer.nsi to include new files (#253)
+- fix(ci): add SDL2 library binaries for Windows build
+- fix(ci): wait for 7b and p4 firmware builds before packaging prereleases
+- correct big-endian bit extract/pack and test bugs in can-signals (#238)
+- guard -mconsole linker flag with WIN32 in can-signals test (#237)
+- make -mconsole linker flag Windows-only in base64 tests (#236)
+- serial-protocol tests on Linux, use taskfile in CI (#232)
+- enable live simulation for OBD2 devices</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.27.0.53/ADashStudio-0.27.0.53-Setup.exe" length="4319907" type="application/octet-stream" sparkle:version="0.27.0.53" sparkle:shortVersionString="0.27.0.53" />
+    </item>
+    <item>
       <title>Prerelease 0.27.0.50</title>
       <pubDate>Tue, 31 Mar 2026 22:25:50 +0000</pubDate>
       <sparkle:version>0.27.0.50</sparkle:version>
