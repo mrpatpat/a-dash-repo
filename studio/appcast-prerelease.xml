@@ -6,6 +6,22 @@
     <description>A-Dash Studio Updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.29.0.0</title>
+      <pubDate>Fri, 03 Apr 2026 20:45:55 +0000</pubDate>
+      <sparkle:version>0.29.0.0</sparkle:version>
+      <sparkle:shortVersionString>0.29.0.0</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Features
+- allow flex layouts in groups (#267)
+- make group borders and background adjustable
+- add Group container widget with drop-target child management (#258)
+
+## Bug Fixes
+- drag preview of grouping
+- show parent group on widget selection
+- fix(inspector): improve group layout controls and text wrapping</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.29.0.0/ADashStudio-0.29.0.0-Setup.exe" length="3807119" type="application/octet-stream" sparkle:version="0.29.0.0" sparkle:shortVersionString="0.29.0.0" />
+    </item>
+    <item>
       <title>Version 0.28.0.0</title>
       <pubDate>Thu, 02 Apr 2026 22:10:22 +0000</pubDate>
       <sparkle:version>0.28.0.0</sparkle:version>
