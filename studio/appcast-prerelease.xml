@@ -6,6 +6,15 @@
     <description>A-Dash Studio Updates</description>
     <language>en</language>
     <item>
+      <title>Version 0.29.1.0</title>
+      <pubDate>Sat, 04 Apr 2026 13:21:27 +0000</pubDate>
+      <sparkle:version>0.29.1.0</sparkle:version>
+      <sparkle:shortVersionString>0.29.1.0</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Bug Fixes
+- correct big-endian bit position conversion in SignalRegistry (#275)</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.29.1.0/ADashStudio-0.29.1.0-Setup.exe" length="3821716" type="application/octet-stream" sparkle:version="0.29.1.0" sparkle:shortVersionString="0.29.1.0" />
+    </item>
+    <item>
       <title>Version 0.29.0.0</title>
       <pubDate>Fri, 03 Apr 2026 20:45:55 +0000</pubDate>
       <sparkle:version>0.29.0.0</sparkle:version>
