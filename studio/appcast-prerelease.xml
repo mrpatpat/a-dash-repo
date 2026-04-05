@@ -252,6 +252,24 @@
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
+      <title>Prerelease 0.29.1.63</title>
+      <pubDate>Sun, 05 Apr 2026 16:01:39 +0000</pubDate>
+      <sparkle:version>0.29.1.63</sparkle:version>
+      <sparkle:shortVersionString>0.29.1.63</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Features
+- add lock function to widgets to prevent movement and resizing (#283)
+- implement firmware version check
+- adds a simple infor line per signal
+- adds mqb and pq vw platforms
+- add downgrade/version-browser to Updates dialog (#277)
+- new page inherits background color from current page (#271)
+- feat(firmware-5b): add host-side tests and integrate into CI pipeline
+
+## Bug Fixes
+- id collision obd2 clearing</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.29.1.63/ADashStudio-0.29.1.63-Setup.exe" length="4395691" type="application/octet-stream" sparkle:version="0.29.1.63" sparkle:shortVersionString="0.29.1.63" />
+    </item>
+    <item>
       <title>Prerelease 0.27.0.53</title>
       <pubDate>Thu, 02 Apr 2026 20:49:34 +0000</pubDate>
       <sparkle:version>0.27.0.53</sparkle:version>
