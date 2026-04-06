@@ -270,6 +270,29 @@
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
+      <title>Prerelease 0.30.0.66</title>
+      <pubDate>Mon, 06 Apr 2026 17:31:51 +0000</pubDate>
+      <sparkle:version>0.30.0.66</sparkle:version>
+      <sparkle:shortVersionString>0.30.0.66</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Features
+- adds basic graph view for can logs
+- support opening and viewing can log files
+- record can logs to file
+- adds a simple table view to can log
+- adds can logs in studio
+- adds brightness slider to color edit modal
+- allow color duplication
+- adds an accordion to the left sidebar in order to reduce the number of ui elements in the menu bar
+- shows device firmware version on the device menu screen
+- feat(led-strip): add configurable background color and fix flicker on firmware
+
+## Bug Fixes
+- prevent duplicate color names in Color Manager (#306)
+- show logs only in debug mode
+- a bug that prevented studio to close cleanly</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.30.0.66/ADashStudio-0.30.0.66-Setup.exe" length="4419808" type="application/octet-stream" sparkle:version="0.30.0.66" sparkle:shortVersionString="0.30.0.66" />
+    </item>
+    <item>
       <title>Prerelease 0.30.0.65</title>
       <pubDate>Sun, 05 Apr 2026 20:12:13 +0000</pubDate>
       <sparkle:version>0.30.0.65</sparkle:version>
