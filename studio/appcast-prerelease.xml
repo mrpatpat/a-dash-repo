@@ -270,6 +270,49 @@
       <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/studio-v0.21.1/ADashStudio-0.21.1-Setup.exe" length="3002027" type="application/octet-stream" sparkle:version="0.21.1" sparkle:shortVersionString="0.21.1" />
     </item>
     <item>
+      <title>Prerelease 0.30.0.73</title>
+      <pubDate>Sun, 19 Apr 2026 17:05:03 +0000</pubDate>
+      <sparkle:version>0.30.0.73</sparkle:version>
+      <sparkle:shortVersionString>0.30.0.73</sparkle:shortVersionString>
+      <description><![CDATA[<html><body style="background-color: #ffffff; color: #000000; font-family: sans-serif; padding: 10px;"><pre style="white-space: pre-wrap; word-wrap: break-word;">## Features
+- adds Ecumaster Switch Board v3
+- adds canchecked mce18 support
+- adds proper isotp obd2
+- adds a file listing protocol
+- add device capabilities to HAL and serial protocol (#315)
+- auto-discover devices on available COM ports (#317)
+- use lvgl 9.5 for p4 7b screen
+- enable PPA and update LVGL to 9.4.0 in ESP32-P4 firmware (#312)
+- detect new p4 7b device in studio
+- adds basic graph view for can logs
+- support opening and viewing can log files
+- record can logs to file
+- adds a simple table view to can log
+- adds can logs in studio
+- adds brightness slider to color edit modal
+- allow color duplication
+- adds an accordion to the left sidebar in order to reduce the number of ui elements in the menu bar
+- shows device firmware version on the device menu screen
+- feat(led-strip): add configurable background color and fix flicker on firmware
+
+## Bug Fixes
+- free up some heap
+- optimize memory usage on 5b
+- file transfer
+- auto connection issues
+- log overflow
+- prevent arc widget value from being changed by touch/click (#319)
+- simulation frequency in studio
+- add lvgl_adapter component for P4 target (#309)
+- transfer button not showing on startup in studio
+- move serial frame data to stack from heap
+- deadlock on new p4 hardware, fixes long presses
+- prevent duplicate color names in Color Manager (#306)
+- show logs only in debug mode
+- a bug that prevented studio to close cleanly</pre></body></html>]]></description>
+      <enclosure url="https://github.com/mrpatpat/a-dash-repo/releases/download/prerelease-0.30.0.73/ADashStudio-0.30.0.73-Setup.exe" length="4771687" type="application/octet-stream" sparkle:version="0.30.0.73" sparkle:shortVersionString="0.30.0.73" />
+    </item>
+    <item>
       <title>Prerelease 0.30.0.72</title>
       <pubDate>Sat, 18 Apr 2026 22:10:06 +0000</pubDate>
       <sparkle:version>0.30.0.72</sparkle:version>
